@@ -1,0 +1,16 @@
+service_id,service_name,origin,destination,date,price,seats
+B001,Bus 1,Pune,Nashik,20-04-2025,600,50
+B002,Bus 2,Nagpur,Ujjain,21-04-2025,750,49
+B003,Bus 3,Indore,Aurangabad,22-04-2025,900,48
+B004,Bus 4,Pune,Nashik,23-04-2025,1050,47
+B005,Bus 5,Nagpur,Ujjain,24-04-2025,1200,46
+B006,Bus 6,Indore,Aurangabad,25-04-2025,1350,45
+B007,Bus 7,Pune,Nashik,26-04-2025,1500,44
+B008,Bus 8,Nagpur,Ujjain,27-04-2025,1650,43
+B009,Bus 9,Indore,Aurangabad,28-04-2025,1800,42
+B010,Bus 10,Pune,Nashik,29-04-2025,1950,41
+B011,Bus 11,Nagpur,Ujjain,30-04-2025,2100,40
+B012,Bus 12,Indore,Aurangabad,01-05-2025,2250,39
+B013,Bus 13,Pune,Nashik,02-05-2025,2400,38
+B014,Bus 14,Nagpur,Ujjain,03-05-2025,2550,37
+B015,Bus 15,Indore,Aurangabad,04-05-2025,2700,36

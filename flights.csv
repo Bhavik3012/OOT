@@ -1,0 +1,17 @@
+service_id,service_name,origin,destination,date,price,seats
+F001,Flight 1,Delhi,Kolkata,20-04-2025,4000,50
+F002,Flight 2,Mumbai,Goa,21-04-2025,4150,49
+F003,Flight 3,Chennai,Ahmedabad,22-04-2025,4300,48
+F004,Flight 4,Delhi,Kolkata,23-04-2025,4450,47
+F005,Flight 5,Mumbai,Goa,24-04-2025,4600,46
+F006,Flight 6,Chennai,Ahmedabad,25-04-2025,4750,45
+F007,Flight 7,Delhi,Kolkata,26-04-2025,4900,44
+F008,Flight 8,Mumbai,Goa,27-04-2025,5050,43
+F009,Flight 9,Chennai,Ahmedabad,28-04-2025,5200,42
+F010,Flight 10,Delhi,Kolkata,29-04-2025,5350,41
+F011,Flight 11,Mumbai,Goa,30-04-2025,5500,40
+F012,Flight 12,Chennai,Ahmedabad,01-05-2025,5650,39
+F013,Flight 13,Delhi,Kolkata,02-05-2025,5800,38
+F014,Flight 14,Mumbai,Goa,03-05-2025,5950,37
+F015,Flight 15,Chennai,Ahmedabad,04-05-2025,6100,36
+F100,Flight 100,Kamrej,Udhna,05-05-2025,6000,35

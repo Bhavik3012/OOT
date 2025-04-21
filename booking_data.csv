@@ -1,0 +1,3 @@
+booking_id,user_id,service_info,booking_date
+B20250421093000,U001,[Flight] Indigo | Mumbai to Delhi | Date: 2025-05-10 | ₹4500.0,2025-04-21 09:30:00
+B20250421093500,U002,[Hotel] Taj Palace | Delhi | Date: 2025-05-10 | ₹7500.0,2025-04-21 09:35:00

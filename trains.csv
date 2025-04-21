@@ -1,0 +1,16 @@
+service_id,service_name,origin,destination,date,price,seats
+T001,Train 1,Kanpur,Jaipur,20-04-2025,1200,50
+T002,Train 2,Ranchi,Shimla,21-04-2025,1350,49
+T003,Train 3,Raipur,Trivandrum,22-04-2025,1500,48
+T004,Train 4,Kanpur,Jaipur,23-04-2025,1650,47
+T005,Train 5,Ranchi,Shimla,24-04-2025,1800,46
+T006,Train 6,Raipur,Trivandrum,25-04-2025,1950,45
+T007,Train 7,Kanpur,Jaipur,26-04-2025,2100,44
+T008,Train 8,Ranchi,Shimla,27-04-2025,2250,43
+T009,Train 9,Raipur,Trivandrum,28-04-2025,2400,42
+T010,Train 10,Kanpur,Jaipur,29-04-2025,2550,41
+T011,Train 11,Ranchi,Shimla,30-04-2025,2700,40
+T012,Train 12,Raipur,Trivandrum,01-05-2025,2850,39
+T013,Train 13,Kanpur,Jaipur,02-05-2025,3000,38
+T014,Train 14,Ranchi,Shimla,03-05-2025,3150,37
+T015,Train 15,Raipur,Trivandrum,04-05-2025,3300,36
